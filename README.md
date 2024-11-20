@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [StylizeMe-Virtual-Dressing-Room](https://github.com/fernandoMHSJ/StylizeMe-Virtual-Dressing-Room)
 
-- 🌱 I’m currently learning **Next.js,Typescript**
+- 🌱 I’m currently learning **React.js,Typescript**
 
 - 💬 Ask me about **react,vue,firebase**
 
